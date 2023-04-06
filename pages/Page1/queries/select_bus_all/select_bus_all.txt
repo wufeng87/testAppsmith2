@@ -1,0 +1,1 @@
+select a.uId, a.licenseNum, b.name from bas_bus a, bas_driver b where a.driverId = b.uId

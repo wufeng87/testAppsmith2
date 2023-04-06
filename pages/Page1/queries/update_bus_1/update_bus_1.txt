@@ -1,0 +1,3 @@
+update bas_bus set
+    depotUid = {{bas_bus_table.selectedRow.depotUid}}
+		where uId = {{bas_bus_table.selectedRow.uId}}

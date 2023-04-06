@@ -1,0 +1,3 @@
+update bas_bus set
+    driverId = {{selectDriverTable.selectedRow.uId}}
+		where uId = {{bas_bus_table.selectedRow.uId}}

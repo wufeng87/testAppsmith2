@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "updateTableSelectRow",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_updateTableSelectRow",
+  "deleted": false,
+  "gitSyncId": "64279c713c6952132525074d_64282f593c69521325250f4a"
+}
